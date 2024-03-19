@@ -55,14 +55,13 @@ Significant variables to predict the demand for shared bikes
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+-This project was inspired by Harish Kumar
+-References from Upgrad session 1 and python library documentations
+- This project was based on upgrad .
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@hkvijay54] - feel free to contact me!
 
 
 <!-- Optional -->
