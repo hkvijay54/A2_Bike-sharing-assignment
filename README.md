@@ -28,10 +28,16 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Significant variables to predict the demand for shared bikes
+-holiday
+-temp
+-hum
+-windspeed
+-Season
+-months(January, July, September, November, December)
+-Year
+-Sunday
+-weathersit( Light Snow, Mist + Cloud)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
